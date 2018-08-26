@@ -1,0 +1,5 @@
+.hebrew{
+font-size: 60px;
+}
+
+<div class="hebrew">{{camp}}</div>
